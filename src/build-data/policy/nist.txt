@@ -174,7 +174,6 @@ x919_mac
 bcrypt
 
 # tls
-tls_10
 tls_cbc
 
 </prohibited>

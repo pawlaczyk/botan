@@ -175,7 +175,4 @@ x919_mac
 # misc
 bcrypt
 
-# tls
-tls_10
-
 </prohibited>
